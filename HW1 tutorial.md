@@ -30,9 +30,7 @@ So, just forget what TA said before, and use follow instructoin
         > brctl show
         bridge name     bridge id               STP enabled     interfaces
         br0             8000.000000000000       no
-        
-        > brctl addif br0 (Your hardware network adapter name)
-
+        > brctl addif br0 (Your hardware network adapter name)
 
 After that, your computer will be disconnected.
 
