@@ -1,7 +1,5 @@
 # Homework 1 guide
 
-The instruction from TA sucks, let me give you some helpful tips while setting up the virtual network adapter.
-
 1. Set-up your VM
     
 You must choose **English**! If you choose Traditional Chinese, some error (“無法安裝 busybox-initramfs” ) will happen during installation process. After rebooting, you will stuck on **booting from hard disk** screen.
@@ -56,3 +54,4 @@ to reset your network interfaces.
 
 After doing these configurations,you can follow page 9 to do other configs.
 
+If you have any question about this guide, feel free to send an issue.
