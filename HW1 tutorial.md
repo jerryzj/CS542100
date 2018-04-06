@@ -7,4 +7,4 @@ The instruction from TA sucks, let me give you some helpful tips while setting u
 then the terminal will show some information like this
 
 
-![img](https://imgur.com/a/1ENdn)
+![ifconfig](https://github.com/jerryzj/CS542100/blob/master/img/ifconfig.png)
