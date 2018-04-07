@@ -46,7 +46,7 @@ Then add this to **/etc/network/interfaces**
         address 10.1.1.254
         netmask 255.255.255.0
  
- After modiefication, type 
+ After modification, type 
  
         > sudo /etc/init.d/networking restart
         
